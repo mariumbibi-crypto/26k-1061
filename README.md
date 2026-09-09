@@ -1,6 +1,8 @@
 # 26k-1061
 GitHub Resume - FAST NUCES
 
+![profile picture](https://img.magnific.com/free-photo/young-beautiful-girl-posing-black-leather-jacket-park_1153-8104.jpg?semt=ais_hybrid&w=740&q=80)
+
 # Maryum BiBi
 
 ## profile:
