@@ -21,3 +21,13 @@ Aspiring **Software Engineer** with an interest in programming, problem-solving,
 - Simple Calculator in C
 - Interactive Shape Drawer in Scratch
 
+## Hobbies & Extracurriculars
+
+1. Reading
+2. Programming
+
+   - [x] Learn C programming basics
+   - [x] Create simple programs
+   - [ ] Learn advanced programming
+   - [ ] Build a complete project
+
